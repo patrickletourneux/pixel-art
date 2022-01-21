@@ -1,15 +1,4 @@
-// Pour gérer le formulaire, il faudrait écouter un évènement
-//  sur TOUT le formulaire.La doc a ce 
-//  sujet: https: 
-// developer.mozilla.org/fr/docs/Web/API/HTMLFormElement/submit_event .
-//  Lisez bien ce qui est écrit en gras :
-//  visage_légèrement_souriant:
-//     Tiens, quand on envoie le formulaire, c
-//     a recharge tout.Cocasse.Une piste: https: //developer.mozilla.org/fr/docs/Web/API/Event/preventDefault
-//     je reposte ce msg dans slack
-// groupe https://docs.google.com/spreadsheets/d/1OC5CNeFrA78ESC6W7ZmTLjc5HEYaNr2k4RhbocoB0yI/edit#gid=584801792
 
-// ton code ici
 
 var app = {
     mousePressed : false,
